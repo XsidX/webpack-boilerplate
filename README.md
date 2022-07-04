@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books
+# Webpack Boilerplate
 
 > In this exercise I build a simple yet powerful webpack boilerplate, which I can use later use as a starting point in my projects.
 
